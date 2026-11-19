@@ -12,26 +12,15 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="50%">
 
 ```ts
 const info = {
   name: "Hon Bunnatireak",
   school: "ISTAD",
   level: "Freshman",
-  learning: ["React", "Backend"],
-  building: "E-commerce projects",
 } as const;
 ```
-
-</td>
-    <td width="40%" valign="top">
-
-**Education**
-Institute of Science and Technology Advanced Development (ISTAD)
-
-**Level**
-Freshman
 
 </td>
   </tr>
@@ -42,30 +31,6 @@ Hello, I'm **Hon Bunnatireak**, a Freshman student at the **Institute of Science
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,5,30&height=2" alt="divider"/>
 
 ## What I'm Working On
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### Learning
-
-- **React**
-- **Backend**
-
-</td>
-    <td width="50%" valign="top">
-
-### Building
-
-**E-commerce projects** with:
-
-- Cart
-- Checkout
-- Login system
-
-</td>
-  </tr>
-</table>
 
 ```bash
 $ git status
