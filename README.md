@@ -33,9 +33,6 @@ Institute of Science and Technology Advanced Development (ISTAD)
 **Level**
 Freshman
 
-**Mindset**
-Always learning, always coding
-
 </td>
   </tr>
 </table>
