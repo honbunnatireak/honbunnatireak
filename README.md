@@ -1,5 +1,6 @@
-<!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00e5ff&height=240&section=header&text=Hon%20Bunnatireak&fontSize=56&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="header"/>
+<!-- HEADER -->
+<img width="100%" src="header.svg" alt="Hon Bunnatireak"/>
+
 
 <!-- TYPING ANIMATION -->
 <p align="center">
@@ -57,4 +58,4 @@ On branch main
 </p>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:203a43,100:0f2027&height=140&section=footer&animation=twinkling" alt="footer"/>
+<img width="100%" src="footer.svg" alt="footer"/>
